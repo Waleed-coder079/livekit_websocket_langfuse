@@ -1,0 +1,22 @@
+fastapi
+uvicorn
+python-dotenv
+
+# WebSocket client
+websockets
+
+# LiveKit Agent SDK
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-silero
+livekit-plugins-elevenlabs
+
+# Speech services (stt/tts)
+deepgram-sdk
+elevenlabs
+
+# Langfuse (tracing)
+langfuse
+
+# For asyncio helpers
+asyncio
